@@ -1,11 +1,11 @@
-About stdlibs
-=============
+About stdlibs-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/stdlibs-feedstock/blob/main/LICENSE.txt)
 
 Home: https://stdlibs.omnilib.dev
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/stdlibs-feedstock/blob/main/LICENSE.txt)
 
 Summary: List of packages in the stdlib
 
