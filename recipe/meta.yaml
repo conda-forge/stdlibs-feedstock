@@ -1,5 +1,5 @@
 {% set name = "stdlibs" %}
-{% set version = "2023.12.15" %}
+{% set version = "2024.1.28" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/stdlibs-{{ version }}.tar.gz
-  sha256: c2041f2a133773e234205d72f48980aebbecec47b17206dd9679747581ae8372
+  sha256: ea158ac5b23c1a304153678908044d89a94c6354fa724f4452d754f9d6c16941
 
 build:
   noarch: python
